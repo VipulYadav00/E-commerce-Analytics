@@ -1,0 +1,13 @@
+product_id,name,category,units_sold,revenue
+2,Sneakers,Footwear,3,239.97
+4,Jeans,Apparel,4,199.96
+10,"Formal Shoes",Footwear,2,179.98
+6,Backpack,Bags,2,119.98
+9,Watch,Accessories,1,99.99
+3,Cap,Accessories,9,89.91
+5,Hoodie,Apparel,2,79.98
+1,"Classic Tee",Apparel,4,79.96
+11,"Sports Shorts",Apparel,2,49.98
+7,"Socks (Pack of 3)",Apparel,3,38.97
+8,Sunglasses,Accessories,1,29.99
+12,"Water Bottle",Lifestyle,1,14.99

@@ -1,0 +1,16 @@
+customer_id,email,signup_date,orders_count,lifetime_revenue,avg_order_value
+4,dave@example.com,2024-02-05,2,199.97,99.99
+9,ivan@example.com,2024-03-22,2,179.98,89.99
+12,lisa@example.com,2024-04-06,2,179.98,89.99
+10,julia@example.com,2024-03-28,1,129.98,129.98
+5,emma@example.com,2024-02-15,1,99.99,99.99
+1,alice@example.com,2024-01-10,2,99.95,49.98
+8,hari@example.com,2024-03-12,2,84.98,42.49
+2,bob@example.com,2024-01-12,1,79.99,79.99
+3,carol@example.com,2024-01-20,2,79.98,39.99
+11,kiran@example.com,2024-04-01,2,74.98,37.49
+7,geeta@example.com,2024-03-01,2,72.98,36.49
+14,nisha@example.com,2024-04-20,1,69.98,69.98
+6,farhan@example.com,2024-02-25,2,59.98,29.99
+15,omkar@example.com,2024-04-25,1,39.99,39.99
+13,mohan@example.com,2024-04-15,1,19.99,19.99
